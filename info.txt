@@ -1,3 +1,4 @@
 Testovací
 +ěščřžýáíé=
 Jsem v next
+Nyní commit přes command
