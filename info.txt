@@ -4,4 +4,4 @@ Jsem v next
 Nyní commit přes command
 Final comm
 Pošleme to tam za SUPERNEXT
-1
+12
