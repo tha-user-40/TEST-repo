@@ -5,3 +5,4 @@ Nyní commit přes command
 Final comm
 Pošleme to tam za SUPERNEXT
 12
+Edit z webu
